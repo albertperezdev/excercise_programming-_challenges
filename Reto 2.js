@@ -68,13 +68,3 @@ switch(tipoDeFruta){
         break;
 
 }
-
-
-
-
-
-
-
-
-
-
